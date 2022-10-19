@@ -2,12 +2,12 @@
 <settings version="1.0">
 	<category name="ex34.c">
 		<category name="Window">
-			<property name="Left" type="integer">4294967288</property>
-			<property name="Top" type="integer">4294967265</property>
-			<property name="Right" type="integer">1175</property>
-			<property name="Bottom" type="integer">513</property>
-			<property name="Maximized" type="integer">1</property>
-			<property name="Active" type="integer">1</property>
+			<property name="Left" type="integer">156</property>
+			<property name="Top" type="integer">156</property>
+			<property name="Right" type="integer">1032</property>
+			<property name="Bottom" type="integer">534</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
 		</category>
 	</category>
 </settings>
